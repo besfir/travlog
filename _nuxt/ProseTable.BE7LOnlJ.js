@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as t,a as e,r}from"./entry.D4goAMF7.js";const c={},l={class:"overflow-x-auto"};function n(o,_){return a(),t("div",null,[e("div",l,[e("table",null,[r(o.$slots,"default")])])])}const f=s(c,[["render",n]]);export{f as default};
