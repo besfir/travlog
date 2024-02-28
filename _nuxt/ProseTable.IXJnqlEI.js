@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as a,a as t,r}from"./entry.CEO0uuA2.js";const c={},l={class:"overflow-x-auto"};function n(e,_){return s(),a("div",l,[t("table",null,[r(e.$slots,"default")])])}const f=o(c,[["render",n]]);export{f as default};
