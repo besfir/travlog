@@ -1,0 +1,1 @@
+import{_ as o,o as s,g as t,k as c,r}from"./entry.CU-DI1Uy.js";const a={},n={class:""};function l(e,_){return s(),t("div",n,[c("blockquote",null,[r(e.$slots,"default")])])}const f=o(a,[["render",l]]);export{f as default};
