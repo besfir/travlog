@@ -5,6 +5,8 @@
         <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/" />
         <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/" />
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/s_1024x1024/s3/intro/9d38aa51-9358-4bfc-9173-fa09c00c50a0.webp</image:loc>
         </image:image>
@@ -86,6 +88,8 @@
         <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/blog/" />
         <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/blog/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/blog/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/blog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/blog/" />
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/images/4135c864-475d-47b1-be27-6dcedb9b7d7d.webp</image:loc>
         </image:image>
@@ -95,18 +99,28 @@
         <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/trip/" />
         <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/trip/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/trip/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/trip/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/trip/" />
     </url>
     <url>
         <loc>https://travlog.besfir.org/ko/blog/page/1/</loc>
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/images/4135c864-475d-47b1-be27-6dcedb9b7d7d.webp</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/blog/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/blog/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/blog/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/blog/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/blog/page/1/" />
     </url>
     <url>
         <loc>https://travlog.besfir.org/ko/blog/2024/01/compare_mobile_internet_options/</loc>
-        <lastmod>2024-02-29T05:12:00Z</lastmod>
+        <lastmod>2024-03-01T03:40:00Z</lastmod>
         <xhtml:link rel="alternate" href="https://travlog.besfir.org/blog/2024/01/compare_mobile_internet_options/" hreflang="en" />
         <xhtml:link rel="alternate" href="https://travlog.besfir.org/ko/blog/2024/01/compare_mobile_internet_options/" hreflang="ko" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/blog/2024/01/compare_mobile_internet_options/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/blog/2024/01/compare_mobile_internet_options/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/blog/2024/01/compare_mobile_internet_options/" />
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/images/4135c864-475d-47b1-be27-6dcedb9b7d7d.webp</image:loc>
         </image:image>
@@ -116,12 +130,22 @@
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/images/4135c864-475d-47b1-be27-6dcedb9b7d7d.webp</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/blog/tags/Prerequisites/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/blog/tags/Prerequisites/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/blog/tags/Prerequisites/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/blog/tags/Prerequisites/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/blog/tags/Prerequisites/page/1/" />
     </url>
     <url>
         <loc>https://travlog.besfir.org/ko/blog/tags/Travel/page/1/</loc>
         <image:image>
             <image:loc>https://travlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/images/4135c864-475d-47b1-be27-6dcedb9b7d7d.webp</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://travlog.besfir.org/ko/blog/tags/Travel/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://travlog.besfir.org/ko/blog/tags/Travel/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://travlog.besfir.org/blog/tags/Travel/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://travlog.besfir.org/blog/tags/Travel/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://travlog.besfir.org/blog/tags/Travel/page/1/" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.0 at 2024-02-28T14:15:41.605Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.0 at 2024-03-01T03:38:24.336Z -->

@@ -1,5 +1,6 @@
-# START nuxt-simple-robots (indexing disabled)
+# START nuxt-simple-robots (indexable)
 User-agent: *
-Disallow: /
 
+Sitemap: https://travlog.besfir.org/sitemap.xml
+Sitemap: https://travlog.besfir.org/sitemap_index.xml
 # END nuxt-simple-robots
