@@ -1,1 +1,0 @@
-import{d as s,a2 as o,ab as a,o as n,g as c,k as e,x as _}from"./entry.DX6ubnp0.js";const m=e("h1",{class:"screen-reader-only"}," Besfir ",-1),r={class:"-mx-6 lg:-mx-16 -mt-6 lg:-mt-16"},h=s({__name:"index",setup(l){return o({titleTemplate:"%siteName"}),(p,d)=>{const t=a("b-photo-stack-temp");return n(),c("section",null,[m,e("div",r,[_(t)])])}}});export{h as default};
