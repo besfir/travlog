@@ -1,0 +1,1 @@
+import{_ as t,g as n,y as o,k as s,o as c,B as r}from"./entry.vNvEl6ls.js";const a={},_={class:"text-center text-7xl dark:text-slate-400"},i=s("div",null,"Working in progress",-1);function d(l,m){const e=r;return c(),n("section",_,[o(e,{name:"twemoji:man-construction-worker-light-skin-tone"}),i])}const k=t(a,[["render",d]]);export{k as default};
