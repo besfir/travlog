@@ -1,6 +1,0 @@
-# START nuxt-simple-robots (indexable)
-User-agent: *
-
-Sitemap: https://travlog.besfir.org/sitemap.xml
-Sitemap: https://travlog.besfir.org/sitemap_index.xml
-# END nuxt-simple-robots
