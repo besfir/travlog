@@ -1,1 +1,0 @@
-import{d as s,a,c}from"./entry.Qi-61qqb.js";const r=["src"],p=s({__name:"BIframe",props:{src:{}},setup(l){return(e,o)=>(a(),c("iframe",{src:e.src,class:"w-full lg:ml-[calc(50%-400px)] lg:w-[800px] h-[500px]",loading:"lazy"},null,8,r))}});export{p as default};
