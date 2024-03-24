@@ -1,0 +1,1 @@
+import{_ as t,c as n,z as o,l as c,a as s,C as r}from"./entry.DGRR1sO8.js";const a={},_={class:"text-center text-7xl dark:text-slate-400"},i=c("div",null,"Working in progress",-1);function l(d,m){const e=r;return s(),n("section",_,[o(e,{name:"twemoji:man-construction-worker-light-skin-tone"}),i])}const p=t(a,[["render",l]]);export{p as default};

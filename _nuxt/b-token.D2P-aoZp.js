@@ -1,0 +1,1 @@
+import{d as c,o as i,a as r,c as p}from"./entry.DGRR1sO8.js";const _=c({__name:"b-token",setup(m){function a(o,n,s){let e;if(s){const t=new Date;t.setTime(t.getTime()+s*24*60*60*1e3),e="; expires="+t.toString()}else e="";document.cookie=o+"="+n+e+"; path=/"}return i(()=>{a("b-token",!0,365)}),(o,n)=>(r(),p("div"))}});export{_ as default};
